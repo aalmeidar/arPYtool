@@ -1,5 +1,9 @@
 # Requirements
 - Scapy
-  $ pip install --pre scapy[basic]
+```bash
+$ pip install --pre scapy[basic]
+```
 # Usage
-  $ sudo python3 arPYtool.py
+```
+$ sudo python3 arPYtool.py
+```
